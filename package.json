@@ -1,0 +1,11 @@
+{
+  "name": "worker-sqs",
+  "version": "1.0.0",
+  "description": "Lambda function for Worker in SQS Queue",
+  "main": "index.js",
+  "author": "Daniel Dauber",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
