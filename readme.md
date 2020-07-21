@@ -2,7 +2,7 @@
 
 Lambda function trigger to distribute messages throw REST API
 
-# Usage
+### Usage
 
 yarn or npm install
 
